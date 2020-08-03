@@ -1,7 +1,5 @@
 <?php
 
-define('CONFIG_PATH', __DIR__ . '/../sample/config/');
-define('DEFAULT_FILE',  'app');
 
 
 class Config
