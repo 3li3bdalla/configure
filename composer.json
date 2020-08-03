@@ -14,7 +14,7 @@
         "psr-4": {
             "Configure\\Core\\" : "Configure/Core"
         },
-        "files": ["Configure/configureFunction.php"]
+        "files": ["Configure/Config.php"]
     },
     "scripts": {
         "configure-init": [
