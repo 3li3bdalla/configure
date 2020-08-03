@@ -10,6 +10,7 @@ define('DEFAULT_FILE',  'app');
 // array like: ['database','mysql',driver']
 
 
+
 // default_value(string,double,int .. act)
 // envirment string: (development,production)
 
